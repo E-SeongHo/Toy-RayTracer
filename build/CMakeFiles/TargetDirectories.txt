@@ -1,3 +1,3 @@
-C:/Workspace/Cpp/project/RayTracer/build/CMakeFiles/RayTracer.dir
-C:/Workspace/Cpp/project/RayTracer/build/CMakeFiles/edit_cache.dir
-C:/Workspace/Cpp/project/RayTracer/build/CMakeFiles/rebuild_cache.dir
+C:/Codes/Toy-RayTracer/build/CMakeFiles/RayTracer.dir
+C:/Codes/Toy-RayTracer/build/CMakeFiles/edit_cache.dir
+C:/Codes/Toy-RayTracer/build/CMakeFiles/rebuild_cache.dir

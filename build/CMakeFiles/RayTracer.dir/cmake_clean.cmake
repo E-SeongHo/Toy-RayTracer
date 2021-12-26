@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/RayTracer.dir/src/main.cpp.obj"
-  "CMakeFiles/RayTracer.dir/src/main.cpp.obj.d"
   "RayTracer.exe"
   "RayTracer.exe.manifest"
   "RayTracer.pdb"
