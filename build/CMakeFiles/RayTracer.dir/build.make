@@ -69,6 +69,7 @@ include CMakeFiles/RayTracer.dir/progress.make
 include CMakeFiles/RayTracer.dir/flags.make
 
 CMakeFiles/RayTracer.dir/src/main.cpp.obj: CMakeFiles/RayTracer.dir/flags.make
+CMakeFiles/RayTracer.dir/src/main.cpp.obj: CMakeFiles/RayTracer.dir/includes_CXX.rsp
 CMakeFiles/RayTracer.dir/src/main.cpp.obj: ../src/main.cpp
 CMakeFiles/RayTracer.dir/src/main.cpp.obj: CMakeFiles/RayTracer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\ToyProject\Toy-RayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RayTracer.dir/src/main.cpp.obj"

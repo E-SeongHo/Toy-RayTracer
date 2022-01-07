@@ -1,7 +1,7 @@
 [
 {
   "directory": "C:/Workspace/ToyProject/Toy-RayTracer/build",
-  "command": "g++   -g -o CMakeFiles\\RayTracer.dir\\src\\main.cpp.obj -c C:\\Workspace\\ToyProject\\Toy-RayTracer\\src\\main.cpp",
+  "command": "g++  @CMakeFiles/RayTracer.dir/includes_CXX.rsp -g -o CMakeFiles\\RayTracer.dir\\src\\main.cpp.obj -c C:\\Workspace\\ToyProject\\Toy-RayTracer\\src\\main.cpp",
   "file": "C:/Workspace/ToyProject/Toy-RayTracer/src/main.cpp"
 }
 ]

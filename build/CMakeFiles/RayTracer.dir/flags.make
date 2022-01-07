@@ -4,7 +4,7 @@
 # compile CXX with g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = @CMakeFiles/RayTracer.dir/includes_CXX.rsp
 
 CXX_FLAGS = -g
 
